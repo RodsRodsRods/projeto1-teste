@@ -1,2 +1,1 @@
 teste = input("Comprou quantas bananas? ")
-print(f"Comprou {teste} bananas")
